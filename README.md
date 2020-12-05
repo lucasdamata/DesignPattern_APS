@@ -9,6 +9,7 @@
 * O Design Facade trablha para que as vendas passem para o fornecedor.
 
 
-gustavohalves = Gustavo Henrique Alves
-lucasdamata = Lucas da Mata Silva
+
+gustavohalves = Gustavo Henrique Alves -> Desenvolveu o packs formatacaoPreco, observer
+lucasdamata = Lucas da Mata Silva -> Desenvolveu os packs Produtos, servicos e vendas
 
